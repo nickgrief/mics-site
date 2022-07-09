@@ -3,7 +3,7 @@
  */
 const config = {
   // ...
-  base: 'misc-site',
+  base: 'mics-site',
 };
 
 export default config;
